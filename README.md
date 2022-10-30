@@ -1,4 +1,5 @@
 # Metric_ODE_GAN
+![](model.png)
 GAN with ODE layer and Metric learning
 
 Discriminator of GAN learns difference of trajectory of ode between real and fake data. Metric learning helps those works with Banach loss term.
